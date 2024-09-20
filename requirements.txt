@@ -1,2 +1,3 @@
 requests
 colorama
+https://github.com/KanekiWeb/Nitro-Generator/new/main
